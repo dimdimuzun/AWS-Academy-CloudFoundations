@@ -1,5 +1,5 @@
 
-# Переклад презентації AcademyCloudFoundations_Module_04.pptx
+# Стислий зміст презентації AcademyCloudFoundations_Module_04.pptx
 
 ## AWS Identity and Access Management (IAM)
 **Використання IAM для керування доступом до ресурсів AWS**  
